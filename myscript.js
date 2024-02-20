@@ -70,5 +70,5 @@
 
 //2-19-2024
 
-//  1/2 50% correct because I put quotes on the variables brinton and sipherd when destructuring the array
+//1/2 50% correct because I put quotes on the variables brinton and sipherd when destructuring the array
 
