@@ -97,7 +97,25 @@
 // <Title title="events in your area" />  //This is the parent
 //)
 
-//
+//#10 children props
+
+// //Child file
+// function Modal({ children }) {
+//     return (
+//         <div>{ children }</div>
+//     )
+// }
+
+//Parent file
+
+// <Modal>
+//     <h2>Terms and Conditions</h2>
+// </Modal>
+
+
+
+
+
 
 // 2-18-2024  8/8 100% correct
 
