@@ -60,11 +60,44 @@
 
 // console.log(others);
 
+// Destructure an object 
+
+// const person = {
+//     firstName: 'John',
+//     lastName: 'Doe',
+//     age: 30,
+//     address: {
+//       city: 'New York',
+//       country: 'USA'
+//     }
+//   };
+  
+
+//   const { firstName, lastName, age, address: { city, country } } = person;
+
+// console.log(firstName);  // Output: John
+// console.log(lastName);   // Output: Doe
+// console.log(age);        // Output: 30
+// console.log(city);       // Output: New York
+// console.log(country);    // Output: USA
+
 //#8 useState //Daily 
 
 // const [hello, setHello] = useState('ola');
 
 // const handleClick = () => setHello('bonjour');
+
+//#9 Pass a prop from a parent componenet into a child
+
+// function Title({ title, subtitle})  //this is the child
+
+//<h1>{title}</h1>  //this is the child
+
+// return (
+// <Title title="events in your area" />  //This is the parent
+//)
+
+//
 
 // 2-18-2024  8/8 100% correct
 
