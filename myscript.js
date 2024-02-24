@@ -71,7 +71,16 @@
 //       country: 'USA'
 //     }
 //   };
+
   
+
+//   const {firstName, lastName, ...others} = person;
+
+//   console.log(person);
+
+//   console.log(firstName);
+//   console.log(lastName);
+//   console.log(person.age);  
 
 //   const { firstName, lastName, age, address: { city, country } } = person;
 
@@ -111,11 +120,6 @@
 // <Modal>
 //     <h2>Terms and Conditions</h2>
 // </Modal>
-
-
-
-
-
 
 // 2-18-2024  8/8 100% correct
 
